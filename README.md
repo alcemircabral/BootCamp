@@ -8,17 +8,17 @@ Ao ler o descritivo dos BootCamp de 5 empresas, na Orbi Conecta/ Digital Innovat
 Abaixo o resumo:
 
 - LÓGICA / CONHECIMENTO GERAL
-    > Lógica de Programação essencial
-    > Aprenda o que são Estrutura de Dados e Algoritmos
-    > Projetos ágeis com Scrum
-    > Modelagem de Negócios
-    > Fundamentos da Arquitetura de Sistemas
-    > Arquitetura de Sistemas Avançado
-    > Estratégia de negócios com OKR
-    > A arquitetura de componentes e gestão da complexidade no front-end
-    > Conceitos de responsividade e experiência do usuário
-    > Introdução ao domain driven design e padrões de arquitetura
-    > Expert Lesson: Arquitetura Hexagonal: mantendo aplicações saudáveis
+    > Lógica de Programação essencial;
+    > Aprenda o que são Estrutura de Dados e Algoritmos;
+    > Projetos ágeis com Scrum;
+    > Modelagem de Negócios;
+    > Fundamentos da Arquitetura de Sistemas;
+    > Arquitetura de Sistemas Avançado;
+    > Estratégia de negócios com OKR;
+    > A arquitetura de componentes e gestão da complexidade no front-end;
+    > Conceitos de responsividade e experiência do usuário;
+    > Introdução ao domain driven design e padrões de arquitetura;
+    > Expert Lesson: Arquitetura Hexagonal: mantendo aplicações saudáveis;
 
 - GIT E GITHUB
     > Introdução ao Git e ao GitHub
