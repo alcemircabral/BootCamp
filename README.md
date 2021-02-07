@@ -8,8 +8,8 @@ Ao ler o descritivo dos BootCamp de 5 empresas, na Orbi Conecta/ Digital Innovat
 Abaixo o resumo:
 
 - LÓGICA / CONHECIMENTO GERAL
-    > Lógica de Programação essencial;
-    > Aprenda o que são Estrutura de Dados e Algoritmos;
+    - Lógica de Programação essencial;
+    - Aprenda o que são Estrutura de Dados e Algoritmos;
     > Projetos ágeis com Scrum;
     > Modelagem de Negócios;
     > Fundamentos da Arquitetura de Sistemas;
