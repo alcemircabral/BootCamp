@@ -83,14 +83,14 @@ Abaixo o resumo:
     - Desafio prático: Performance Web Utilizando JavaScript
 
 
-===========================================================================================================
+======================================================================================
 
 - Porque não segui as diretrizes propostas das empresas?
 No momento não tenho interesse em aprender Java, .NET, C#. As linguagens na criação de Software.
 O foco do meu conhecimento é na área web/mobile, precisamente no Back-End.
 Hoje quero realizar e concluir projetos pessoas que podem contribuir para qualquer pessoa ou empresa.
 
-===========================================================================================================
+======================================================================================
 
 Este é meu start. 
 Todo conteúdo da minha evolução estará disponível por aqui, no meu GitHub.
