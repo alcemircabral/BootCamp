@@ -60,6 +60,29 @@ Abaixo o resumo:
     > Desenvolvimento back-end com Node.js
     > Construindo um ChatbotFit no Telegram com JavaScript e Node.js
 
+- PHP
+    > Introdução ao PHP
+    > Formulários com condicionais e sessões com PHP
+    > Conhecendo funções e validação de dados com PHP
+    > Conceitos e melhores práticas com banco de dados PostgreSQL
+    > Orientação a objetos, exceções e banco de dados PHP
+    > Desenvolvimento avançado em PHP
+
+- EXERCÍCIOS BÁSICOS
+    > Recriando a Interface do Netflix
+    > Recriando a página inicial do Instagram
+    > Construindo o seu primeiro jogo de naves
+    > Criando seu jogo de memória estilo Genius
+    > Recriando o famoso jogo do dinossauro sem internet
+    > Desenvolvendo um jogo da memória
+    > Criando seu próprio jogo da velha com HTML e JavaScript
+    > Criando seu jogo no estilo Space Shooter
+    > Construindo páginas para internet com Bootstrap
+    > Recriando o jogo da cobrinha com JavaScript
+    > Desafio prático: Criando uma home com Styled Components
+    > Desafio prático: Performance Web Utilizando JavaScript
+
+
 ==================================================================================================================================
 
 - Porque não segui as diretrizes propostas das empresas?
