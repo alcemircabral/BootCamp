@@ -295,10 +295,10 @@ const pets = [
     },
 
     {
-        name: 'dog',
-        type: 'doginho',
+        name: 'doguinho',
+        type: 'dog',
         age: 1,
-        weight: 1
+        weight: 2
     },
     {
         name: 'marrom',
@@ -315,6 +315,7 @@ const pets = [
     }
 ]
 
+/*
 const totalweight = pets.reduce((total, pets) => {
     
     console.log(`Total: ${total}`)
@@ -322,5 +323,59 @@ const totalweight = pets.reduce((total, pets) => {
     return total + pets.weight
     
 },0)
+*/
+
+/*
+const totalweight = pets.reduce((total, pets) => {
+    //console.log(total)
+    return {
+        totalAge: total.totalAge + pets.age,
+        totalweight: total.totalweight + pets.weight,
+    }
+
+
+}, {totalAge: 0, totalweight: 0})
 
 console.log(totalweight)
+*/
+/*
+const totalweight = pets.reduce((total, pet) => {
+    if (pet.type !== 'dog') return total
+    return total + pet.weight
+},0)
+
+console.log(totalweight)
+*/
+
+
+/* const totalweight = pets.reduce ((total, pet) => {
+    return total + pet.weight
+},0)
+
+console.log(totalweight) */
+
+/* const dogs = pets.filter((pet) => {
+    return pet.type === 'dog'
+}) */
+
+//console.log (dogs)
+
+/* const totalWeightDogs = dogs.reduce ((total, pet) => {
+    return total + pet.weight
+},0)
+
+console.log(totalWeightDogs) */
+
+// -------------------- Encadeamento
+
+/* const totalWeightDogs = pets.filter((pet) => {
+    return pet.type === 'dog'
+})
+.reduce ((total, pet) => {
+    return total + pet.weight
+},0)
+
+console.log(totalWeightDogs)
+ */
+
+
